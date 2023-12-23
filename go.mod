@@ -349,7 +349,7 @@ require (
 	github.com/DataDog/datadog-api-client-go/v2 v2.11.0
 	github.com/Myra-Security-GmbH/myrasec-go/v2 v2.28.0
 	github.com/manicminer/hamilton v0.44.0
-	github.com/opalsecurity/opal-go v1.0.19
+	github.com/opalsecurity/opal-go v1.0.28
 	gopkg.in/ns1/ns1-go.v2 v2.6.5
 )
 
